@@ -1,7 +1,5 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 > - 👋 Hi, I’m @programa-nexus
 - 👀 I’m interested in metaphysics ...
 - 🌱 I’m currently learning programming  ...
